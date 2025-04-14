@@ -3,7 +3,7 @@
   <!-- Contenedor de nombre y descripción -->
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin-bottom: 20px;">
     <h1 style="font-size: 42px;">Sebastián Alonso Saavedra Arroyo</h1>
-    <h3 style="font-size: 22px; color: #555;">👨‍💻 Ingeniero en Computación y Sistemas</h3>
+    <h3 style="font-size: 22px; color: #555;">👨‍💻 Estudiante de Ingeniera de Computación y Sistemas</h3>
     <p style="font-size: 18px; color: #444; font-style: italic;">Apasionado por crear soluciones robustas con tecnologías modernas como <strong>Spring Boot</strong>, <strong>Angular</strong>, <strong>Docker</strong> y <strong>AWS</strong> ☁️</p>
   </div>
 
