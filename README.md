@@ -1,53 +1,125 @@
-## 👋 ¡Hola! Soy Sebastián Saavedra
+<div align="center">
 
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+  <!-- Contenedor de nombre y descripción -->
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin-bottom: 20px;">
+    <h1 style="font-size: 42px;">Sebastián Alonso Saavedra Arroyo</h1>
+    <h3 style="font-size: 22px; color: #555;">👨‍💻 Ingeniero en Computación y Sistemas</h3>
+    <p style="font-size: 18px; color: #444; font-style: italic;">Apasionado por crear soluciones robustas con tecnologías modernas como <strong>Spring Boot</strong>, <strong>Angular</strong>, <strong>Docker</strong> y <strong>AWS</strong> ☁️</p>
+  </div>
 
-### 💻 Desarrollador & Entusiasta de la Tecnología
+  <!-- Contenedor para la imagen al costado -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Coding animated"/>
+  </div>
 
-Apasionado por la programación, el aprendizaje continuo y la creación de soluciones que generen impacto. Me encanta trabajar con datos, automatizar procesos y explorar nuevas herramientas tecnológicas.
+  <br/>
 
----
+  <!-- Enlaces de redes sociales -->
+  <div>
+    <a href="https://github.com/SaavedraSebastian" target="_blank">
+      <img src="https://img.shields.io/badge/Portafolio-181717?style=for-the-badge&logo=github" />
+    </a>
+    <a href="https://www.linkedin.com/in/sebasti%C3%A1n-alonso-saavedra-arroyo-7b6905321/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:tuemail@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/alonso_sa19/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://www.youtube.com/@SebastianAlonso-dev" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
+  </div>
 
-### 🚀 Tecnologías y Herramientas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
-### 📚 Actualmente aprendiendo
-
-- 📈 Machine Learning
-- 🧠 Ciencia de Datos
-- 📊 Visualización de Datos
-- 📦 Desarrollo de APIs con Python
-
----
-
-### 📂 Proyectos Destacados
-
-- 🧮 **Regresiones con Python y Pandas**: análisis estadístico con visualizaciones.
-- 📊 **Dashboard de Datos**: dashboard interactivo usando `Plotly` y `Dash`.
-- 🔁 **Automatizador de Tareas**: script para organizar archivos automáticamente.
-
----
-
-### 💬 Hablemos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaavedraSebastian)
+</div>
 
 ---
 
-### ⚡ Fun fact
-
-> 🐍 Me encanta resolver problemas complejos con Python y siempre estoy buscando mejorar mis habilidades en ciencia de datos.
 
 ---
 
-*¡Gracias por visitar mi perfil! ⭐️ Si alguno de mis proyectos te resulta útil, no dudes en dejar una estrella o conectarte conmigo.*
+
+## 🧠 Sobre mí
+
+- 🎓 Ingeniero en Computación y Sistemas
+- 💼 Enfocado en construir soluciones escalables y bien estructuradas
+- 🚀 Amante de los microservicios, buenas prácticas y automatización
+- 🛠️ Stack Principal: Spring Boot + Angular + Docker + AWS
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**<br/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+**Backend**<br/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+**DevOps & Cloud**<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+**Testing**<br/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</div>
+
+---
+
+## 📁 Proyectos Destacados
+
+### 🌐 Plataformas Web
+
+| Proyecto              | Tecnologías                  | Estado                   | Código                     |
+|-----------------------|------------------------------|--------------------------|----------------------------|
+| **Ukupi Store**       | Html, css, javascript        | 🚀 En Producción         | [🔗 GitHub](#)             |
+| **Medical Clinics**   | Spring Boot + Angular        | 🚀 En Producción         | [🔗 GitHub](#)             |
+| **Vet System**      | Angular 18 + AWS RDS         | En Desarrollo     |
+| **PrescriApp**      | Java + Spring Boot           | En Produccion   |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaavedraSebastian&show_icons=true&theme=transparent&hide_title=true&hide=contribs" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaavedraSebastian&layout=compact&theme=transparent&hide=html,css" width="47%" />
+</div>
+
+---
+## 🧭 Roadmap 2025
+
+✨ Este año me propongo seguir creciendo como profesional y estas son algunas de mis metas:
+
+- ✅ **Profundizar en Microservicios con Spring Cloud y Kubernetes**
+- 🚀 **Desarrollar una app SaaS desde cero con Angular + Spring Boot**
+- 📊 **Dominar CI/CD con GitHub Actions y Terraform**
+- 🧠 **Compartir conocimientos escribiendo artículos técnicos en Dev.to**
+- 🎯 **Contribuir a un proyecto open source**
+
+> _"Nunca pares de aprender, porque la tecnología nunca para de avanzar."_ 💡
+## 💬 Pregúntame sobre...
+
+Me encanta compartir lo que sé y aprender de los demás. Si necesitas ayuda o tienes curiosidad por alguno de estos temas, ¡escríbeme sin miedo! 😄
+
+- 🧩 Arquitectura de Microservicios con Spring Boot
+- 🧠 Manejo avanzado de Angular y buenas prácticas
+- 🐳 Contenedores con Docker
+- 🔐 Autenticación con JWT y control de accesos
+- 🧪 Automatización de pruebas con Postman y Selenium
+
+> _“El conocimiento no crece cuando lo guardas, crece cuando lo compartes.”_
+
 
