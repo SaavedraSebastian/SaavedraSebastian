@@ -43,9 +43,9 @@
 
 ## 🧠 Sobre mí
 
-- 🎓 Ingeniero en Computación y Sistemas
+- 🎓 Estudiante de Ingeniería de Computación y Sistemas
 - 💼 Enfocado en construir soluciones escalables y bien estructuradas
-- 🚀 Amante de los microservicios, buenas prácticas y automatización
+- 🚀 Me apasiona los microservicios, buenas prácticas y automatización
 - 🛠️ Stack Principal: Spring Boot + Angular + Docker + AWS
 
 ---
